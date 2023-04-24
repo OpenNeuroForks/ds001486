@@ -65,5 +65,6 @@
   ],
   "FlipAngle": 80,
   "InstitutionName": "CAMRI, Nortwestern University",
-  "NumberOfVolumesDiscardedByUser": 6
+  "NumberOfVolumesDiscardedByUser": 6,
+  "TotalReadoutTime": 1
 }
